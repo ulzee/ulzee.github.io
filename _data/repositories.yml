@@ -1,7 +1,7 @@
-github_users:
-  - sriramlab
-  - ulzee
-  - ulzedu
+# github_users:
+#   - sriramlab
+#   - ulzee
+#   - ulzedu
 
 repo_description_lines_max: 2
 

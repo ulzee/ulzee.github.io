@@ -24,7 +24,8 @@ My experience spans many modalities that are encountered in healthcare: genomics
 Before joining UCLA, I obtained an MS in Computer Science at NYU while researching [traffic patterns](https://ieeexplore.ieee.org/abstract/document/9052963) with Professor [Lakshmi Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 I obtained my Bachelor's in Computer Science at UIUC where I contributed to [projects involving motion sensors](https://www.builtinchicago.org/articles/u-gesture-recognition-platform-rithmio-lands-3m-seed-round-funding) in Professor [Prashant Mehta](https://mehta.mechse.illinois.edu)'s lab.
 
-I had a research internship with [Uber](https://www.uber.com/us/en/careers/teams/data-science/) in 2022 where I worked on probabilistic and DL embedding methods.
+Other things: I had a research internship with [Uber](https://www.uber.com/us/en/careers/teams/data-science/) in 2022 where I worked on probabilistic and DL embedding methods. You can check out what I do for [fun](https://ulzee.github.io/fun/).
+Feel free to reach out to me at *ulzee [at] cs [dot] ucla [dot] edu*.
 
 <!-- Before that I was a carefree millenial living in Boston, MA. -->
 
