@@ -27,6 +27,8 @@ I obtained my Bachelor's in Computer Science at UIUC where I contributed to [pro
 Other things: I had a research internship with [Uber](https://www.uber.com/us/en/careers/teams/data-science/) in 2022 where I worked on probabilistic and DL embedding methods. You can check out what I do for [fun](https://ulzee.github.io/fun/).
 Feel free to reach out to me at *ulzee [at] cs [dot] ucla [dot] edu*.
 
+Check out my academic [CV](/cv/) or [resume](/resume/).
+
 <!-- Before that I was a carefree millenial living in Boston, MA. -->
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
