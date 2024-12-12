@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /resume/
 nav: false
 redirect: /assets/pdf/resume.pdf
 ---

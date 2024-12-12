@@ -21,16 +21,10 @@ Hi! I'm Ulzee. My name is based on a [street of the same name in Korea (을지)]
 My research interests are in applying state-of-art machine learning methods to improve our understanding of complex diseases.
 My experience spans many modalities that are encountered in healthcare: genomics, doctors' notes, X-rays, MRIs, motion sensors, and more.
 
+Check out my academic [CV](/cv/) or [resume](/resume/).
+
 Before joining UCLA, I obtained an MS in Computer Science at NYU while researching [traffic patterns](https://ieeexplore.ieee.org/abstract/document/9052963) with Professor [Lakshmi Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 I obtained my Bachelor's in Computer Science at UIUC where I contributed to [projects involving motion sensors](https://www.builtinchicago.org/articles/u-gesture-recognition-platform-rithmio-lands-3m-seed-round-funding) in Professor [Prashant Mehta](https://mehta.mechse.illinois.edu)'s lab.
 
-Other things: I had a research internship with [Uber](https://www.uber.com/us/en/careers/teams/data-science/) in 2022 where I worked on probabilistic and DL embedding methods. You can check out what I do for [fun](https://ulzee.github.io/fun/).
+Other things: I had a research internship with [Uber](https://www.uber.com/us/en/careers/teams/data-science/) in 2022 where I worked on probabilistic and DL embedding methods. See what I do for [fun](https://ulzee.github.io/fun/).
 Feel free to reach out to me at *ulzee [at] cs [dot] ucla [dot] edu*.
-
-Check out my academic [CV](/cv/) or [resume](/resume/).
-
-<!-- Before that I was a carefree millenial living in Boston, MA. -->
-
-<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
