@@ -21,7 +21,7 @@ Hi! I'm Ulzee. My name is based on a [street of the same name in Korea (을지)]
 My research interests are in applying state-of-art machine learning methods to improve our understanding of complex diseases.
 My experience spans many modalities that are encountered in healthcare: genomics, doctors' notes, X-rays, MRIs, motion sensors, and more.
 
-Check out my academic [CV](/cv/) or [resume](/resume/).
+Check out my academic [CV](https://drive.google.com/file/d/1M1AAKHzoJsc61GHuQJqmiQTNr_aD7l5s/view?usp=share_link) or [resume](https://drive.google.com/file/d/1Xs40wjZB0Fy4Fi_cf1gSN8r7fks2cP95/view?usp=share_link).
 
 Before joining UCLA, I obtained an MS in Computer Science at NYU while researching [traffic patterns](https://ieeexplore.ieee.org/abstract/document/9052963) with Professor [Lakshmi Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html).
 I obtained my Bachelor's in Computer Science at UIUC where I contributed to [projects involving motion sensors](https://www.builtinchicago.org/articles/u-gesture-recognition-platform-rithmio-lands-3m-seed-round-funding) in Professor [Prashant Mehta](https://mehta.mechse.illinois.edu)'s lab.
