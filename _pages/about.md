@@ -17,7 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Ulzee. My name is based on a [street of the same name in Korea (을지)](https://en.wikipedia.org/wiki/Euljiro). I'm currently doing my PhD in Computer Science with Professor [Sriram Sankararaman](https://web.cs.ucla.edu/~sriram/index.html) at UCLA.
+Hi! I'm Ulzee. My name is based on a [street of the same name in Korea (을지)](https://en.wikipedia.org/wiki/Euljiro).
+I received my PhD in Computer Science with Professor [Sriram Sankararaman](https://web.cs.ucla.edu/~sriram/index.html) from UCLA (May 2025).
 My research interests are in applying state-of-art machine learning methods to improve our understanding of complex diseases.
 My experience spans many modalities that are encountered in healthcare: genomics, doctors' notes, X-rays, MRIs, motion sensors, and more.
 
